@@ -1,5 +1,6 @@
 # EvilSquid
 *NOTE: original creator Chema Alonso - [PDF-slides](https://media.blackhat.com/bh-us-12/Briefings/Alonso/BH_US_12_Alonso_Owning_Bad_Guys_Slides.pdf) - [Video Talk at DEFCON 20](https://www.youtube.com/watch?v=0QT4YJn7oVI)*
+
 Files and configs for a MITB attack trough Squid Proxy
 
 
